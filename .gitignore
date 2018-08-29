@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+results/
+LINEMOD/
+backup/
+multi_obj_pose_estimation/*.tar
